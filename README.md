@@ -1,5 +1,4 @@
-# pixark
-pixarkserver Docker
+<h1>pixark</h1>
 
 我找到了很多可以在Linux環境下運行的“Pixark”服務器，但都失敗了，所以我自己做了一個。<br />
 I found a lot of "Pixark" servers that can run in a Linux environment, but they all failed, so I made one myself.
