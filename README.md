@@ -43,11 +43,6 @@ If anyone knows which port is causing this, I hope to be able to tell me.
       <td></td>
     </tr>
     <tr>
-      <td>MAXPLAYERS</td>
-      <td>10</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>SERVERPASSWORD</td>
       <td></td>
       <td></td>
@@ -103,3 +98,8 @@ If anyone knows which port is causing this, I hope to be able to tell me.
     </tr>
   </tbody>
 </table>
+
+<h2>VOLUME</h2>
+VOLUME ["/pixark"]
+
+<h2>Docker Run</h2>
