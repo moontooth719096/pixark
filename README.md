@@ -16,5 +16,61 @@ So I just have to turn off the firewall...
 如果有人知道哪個Port導致了這種情況，我希望能夠告訴我。<br />
 If anyone knows which port is causing this, I hope to be able to tell me.
 
+<h2>Environment Variables</h2>
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Variable Name</th>
+      <th>Default Value</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MAXPLAYERS</td>
+      <td>10</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>GAMEDIR</td>
+      <td>/pixark</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SERVERNAME</td>
+      <td>DefaultWorld </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>MAXPLAYERS</td>
+      <td>10</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SERVERPASSWORD</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PORT</td>
+      <td>27015 </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>QUERYPORT</td>
+      <td>27016</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CUBEPORT</td>
+      <td>27018</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>RCONPORT</td>
+      <td>27017</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
