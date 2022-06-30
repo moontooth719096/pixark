@@ -103,4 +103,4 @@ VOLUME ["/pixark"]
 
 <h2>Docker Run</h2>
 
-docker run -id --name=pixarkserver --net=host -e  MAXPLAYERS={youwantMAXPLAYERS} -e SERVERNAME={SERVERNAME} -e SERVERPASSWORD={SERVERPASSWORD} -e  PORT={PORT} -e QUERYPORT={QUERYPORT} -e CUBEPORT={CUBEPORT} -e RCONPORT={RCONPORT} -v /Game/pixark:/pixark moontooth719096/pixark
+docker run -id --name=pixarkserver --net=host -e  MAXPLAYERS={MAXPLAYERS} -e SERVERNAME={SERVERNAME} -e SERVERPASSWORD={SERVERPASSWORD} -e  PORT={PORT} -e QUERYPORT={QUERYPORT} -e CUBEPORT={CUBEPORT} -e RCONPORT={RCONPORT} -v /Game/pixark:/pixark moontooth719096/pixark
