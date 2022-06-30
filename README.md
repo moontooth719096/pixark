@@ -74,3 +74,32 @@ If anyone knows which port is causing this, I hope to be able to tell me.
     </tr>
   </tbody>
 </table>
+
+<h2>Ports</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Port</th>
+      <th>Default Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Port</td>
+      <td>27015</td>
+    </tr>
+    <tr>
+      <td>QUERYPORT</td>
+      <td>27016</td>
+    </tr>
+    <tr>
+      <td>CUBEPORT</td>
+      <td>27018</td>
+    </tr>
+    <tr>
+      <td>RCONPORT</td>
+      <td>27017</td>
+    </tr>
+  </tbody>
+</table>
