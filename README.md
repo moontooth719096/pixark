@@ -103,3 +103,5 @@ If anyone knows which port is causing this, I hope to be able to tell me.
 VOLUME ["/pixark"]
 
 <h2>Docker Run</h2>
+
+docker run -id --name=pixarkserver --net=host -e  MAXPLAYERS={youwantMAXPLAYERS} e -v GAMEDIR={GAMEDIR} -e SERVERNAME={SERVERNAME} -e SERVERPASSWORD={SERVERPASSWORD} -e  PORT={PORT} -e QUERYPORT={QUERYPORT} -e CUBEPORT={CUBEPORT} -e RCONPORT={RCONPORT} /Game/pixark:/{GAMEDIR} moontooth719096/pixark
